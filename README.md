@@ -1,1 +1,1 @@
-# Machine-Learning-on-Oracle-Cloud
+# Tutorials for Machine Learning Operations course
